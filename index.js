@@ -6,10 +6,11 @@ let driver = null;
 var contaOk = false;
 
 // Lista telefone
+// Informe os numeros para ser enviados as msg
 let contatos = [
-    '5514991849615',
-    '5514996001481',
-    '5514991358893'
+    '551499999999',
+    '551499999999',
+    '551499999999'
 ];
 
 /**
